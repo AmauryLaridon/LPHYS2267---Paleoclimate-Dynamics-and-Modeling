@@ -1,0 +1,3 @@
+## Notes d'utilisation pour le programme à partir du fichier de paramètre.
+
+Pour le devoir utiliser le bloc 4 et il ne faudra que changer l'année. Quand on travaille sur un bloc il faut le placer au dessus juste après le bloc 1) et 2). Après avoir changé les paramètres on sauve et on peut fermer le fichier. On exécute le fichier .exe et on a un fichier .out qui arrive. La première colonne est l'année, la deuxième la latitude par pas de 10° puis la troisième colonne jusqu'à la dernière est l'insolation journalière allant de janvier à décembre. Avant de faire une nouvele simulation il faut changer le nom du fichier d'output. Ensuite on retourne dans le fichier ici de paramètre et on modifie en fonction des besoins. 

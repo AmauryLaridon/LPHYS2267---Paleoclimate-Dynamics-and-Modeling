@@ -1,0 +1,39 @@
+1). Solar constant could be between 1365 and 1368 W/w-2
+1368
+
+2). If iopt=1,true longitude of sun is used;If iopt=2,mean longitude(calendar) is used.
+1	
+
+4). Insolation calculated for one year, all months and all latitudes
+9                      Choice of the solution
+2                      Choice of work
+128                    Year
+
+3). Insolation calculated for the same month and the same latitude
+9                      Choice of the solution
+1                      Choice of work
+6                      Month
+-5 1    1              Period(start year, end year, step)
+65                     Latitude
+
+
+
+
+
+5). Insolation calculated for one given latitude and all months
+9                      Choice of the solution
+3                      Choice of work
+1 1001   1             Period(start year, end year, step)
+65                     Latitude
+
+
+
+
+
+
+
+
+
+
+
+
