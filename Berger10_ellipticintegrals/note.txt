@@ -1,0 +1,5 @@
+###########################################################
+
+Utiliser le .exe en fonction de notre OS. 
+Le fichier .don est celui des paramètres avec les blocs mais on peut faire deux simulations en utilisant deux blocs en même temps. Cfr. le README ci dessus pour les valeurs. 	
+
